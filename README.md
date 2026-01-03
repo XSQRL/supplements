@@ -11,12 +11,12 @@
 ### Morgens
 - [ ] Kaffee: 1TL Entkoff. löslichen Kaffee von DM + 350 mg Jakobs espresso (~15 mg Coffein)
 - [ ] 1 Kapsel(500mg) Tetesept Johanniskraut
-- [ ] 3000 IE Vitamin D
-- [ ] 12,5 g 90%ige schokolade (Moser Roth)
+- [ ] 2000 IE Vitamin D
+- [ ] 25 g 90%ige schokolade (Moser Roth)
 
 ### Vor dem Sport
 - [ ] 00er Kapsel Vitamin C
-- [ ] 1 TL (ca 5-6g) Kreatin
+- [ ] 2 TL (ca 10-12g) Kreatin
 
 ### Mittags (Vor dem Essen)
 - [ ] 800 µg Fohlsäure
@@ -29,7 +29,7 @@
 - [ ] 10ml+ Olivenöl
 
 ### Mittags (Nach dem Essen)
-- [ ] Kaffee: 1TL Entkoff. löslichen Kaffee von DM + 350mg Jakobs espresso (~15mg Coffein)
+- [ ] 200 mg Grüntee extrakt (8:1) (HSN)
 - [ ] 00er Kapsel Vitamin C (manchmal)
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
 
@@ -39,6 +39,6 @@
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem nach grünem Blattgemüse f. Eisenaufnahme)
 
 ### Abends, vor dem Schlafen
-- [ ] 2 Kapseln(1000mg) Tetesept Johanniskraut
-- [ ] 1 gehäuften TL Glycin (~10g)
+- [ ] 2 Kapseln(1000 mg) Tetesept Johanniskraut
+- [ ] 1 gehäuften TL Glycin (~10-12 g)
 - [ ] 1/2 TL Magnesium bisglycinat
