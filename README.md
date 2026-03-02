@@ -33,6 +33,7 @@
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem wenn keine vor dem Sport genommen wurde)
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
 - [ ] 2,5g Mg-BHB
+- [ ] 12,5 g 90%ige schokolade (Moser Roth)
 
 ### Nachmittags
 - [ ] 2,5g Mg-BHB
