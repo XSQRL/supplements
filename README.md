@@ -35,8 +35,10 @@
 - [ ] 800 µg Fohlsäure
 - [ ] 25 mg Zink Bisglycinat
 - [ ] 10 mg Spermidin
-- [ ] 1260 mg NMN
+- [ ] 630 mg NMN
 - [ ] 200 mg Grüntee extrakt (8:1) (HSN)
+- [ ] 1,5 µg ACD
+- [ ] 2 mg MPH
 - [ ] 1 gehäuften TL Kreatin
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem wenn kein Sport gemacht wurde)
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
@@ -45,6 +47,8 @@
 
 ### Nachmittags
 - [ ] 2,5g Mg-BHB (Nach Bedarf)
+- [ ] 1,5 µg ACD (Nach Bedarf)
+- [ ] 2 mg MPH (Nach Bedarf)
 
 ### Abends (Nach dem Essen)
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem nach grünem Blattgemüse f. Eisenaufnahme)
