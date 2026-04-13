@@ -38,7 +38,7 @@
 - [ ] 1260 mg NMN
 - [ ] 200 mg Grüntee extrakt (8:1) (HSN)
 - [ ] 1 gehäuften TL Kreatin
-- [ ] 00er Kapsel Vitamin C (manchmal, vorallem wenn keine vor dem Sport genommen wurde)
+- [ ] 00er Kapsel Vitamin C (manchmal, vorallem wenn kein Sport gemacht wurde)
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
 - [ ] 12,5 g 90%ige schokolade (Moser Roth)
 - [ ] Kaffee: 1TL Entkoff. löslichen Kaffee von DM + 1/4 TL Löslichen Kaffe mild von Lidl
