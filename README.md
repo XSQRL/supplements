@@ -32,8 +32,7 @@
 - [ ] 10ml+ Olivenöl
 
 ### Mittags (Nach dem Essen)
-- [ ] 800 µg Fohlsäure
-- [ ] 25 mg Zink Bisglycinat
+- [ ] 1. Doppelherz aktiv A-Z Depot
 - [ ] 10 mg Spermidin
 - [ ] 630 mg NMN
 - [ ] 200 mg Grüntee extrakt (8:1) (HSN)
