@@ -43,6 +43,7 @@
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
 - [ ] 12,5 g 90%ige schokolade (Moser Roth)
 - [ ] Kaffee: 1TL Entkoff. löslichen Kaffee von DM + 1/4 TL Löslichen Kaffe mild von Lidl
+- [ ] 1. Kapsel Brokkoli Extrakt 400µg Sulforaphan (Bioherba)
 
 ### Nachmittags
 - [ ] 2,5g Mg-BHB (Nach Bedarf)
