@@ -2,7 +2,7 @@
 
 ## Regelmäßig
 - Alle drei Wochen 1000 IE Vitamin B12, intramuskulär.
-- Montags morgens und Donnerstags abends jeweils 150µg Semaglutid
+- Montags morgens und Donnerstags abends jeweils 250µg Semaglutid
 
 ## Nach Bedarf
 - Wenn der Magen weh tut (wahrscheinlich zu viel Getreide gegessen) -> Pantoprazol (Einmalig reicht meistens)
@@ -44,7 +44,7 @@
 - [ ] 12,5 g 90%ige schokolade (Moser Roth)
 - [ ] Kaffee: 1TL Entkoff. löslichen Kaffee von DM + 1/4 TL Löslichen Kaffe mild von Lidl
 - [ ] 1. Kapsel Brokkoli Extrakt 400µg Sulforaphan (Bioherba)
-- [ ] Granatapfelextrakt 500mg 20:1 (Zazzee Pomgranate, 40% Ellagic Acid)
+- [ ] Granatapfelextrakt 500mg 20:1 (Zazzee Pomegranate, 40% Ellagic Acid)
 
 ### Nachmittags
 - [ ] 2,5g Mg-BHB (Nach Bedarf)
