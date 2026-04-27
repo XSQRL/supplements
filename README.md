@@ -44,11 +44,12 @@
 - [ ] 12,5 g 90%ige schokolade (Moser Roth)
 - [ ] Kaffee: 1TL Entkoff. löslichen Kaffee von DM + 1/4 TL Löslichen Kaffe mild von Lidl
 - [ ] 1. Kapsel Brokkoli Extrakt 400µg Sulforaphan (Bioherba)
+- [ ] Granatapfelextrakt 500mg 20:1 (Zazzee Pomgranate, 40% Ellagic Acid)
 
 ### Nachmittags
 - [ ] 2,5g Mg-BHB (Nach Bedarf)
 - [ ] 1,5 µg ACD (Nach Bedarf)
-- [ ] 2 mg MPH (Nach Bedarf)
+- [ ] 2 mg MPH (Nach Bedarf, im Regelfall spätestens 16:00)
 
 ### Abends (Nach dem Essen)
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem nach grünem Blattgemüse f. Eisenaufnahme)
