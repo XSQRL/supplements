@@ -11,12 +11,13 @@
 ## Täglich
 
 ### Morgens
-- [ ] Kaffee: 2 TL Löslichen Kaffe mild von Lidl
-- [ ] 4000 IE Vitamin D
+- [ ] Kaffee: 1 TL Löslichen Kaffe mild von Lidl
+- [ ] 4000 IE Vitamin D (Im Sommer weniger, Wenn in der Sonne gewesen gar nicht.)
 - [ ] 12,5 g 90%ige schokolade (Moser Roth)
 - [ ] 2,5g Mg-BHB
 - [ ] 1 gehäuften TL Kreatin
-- [ ] 2 mg MPH
+- [ ] 2,3 mg MPH
+- [ ] 0,5 mg LDX
 - [ ] 1,5 µg ACD
 
 ### Vor dem Sport
@@ -36,20 +37,22 @@
 - [ ] 10 mg Spermidin
 - [ ] 630 mg NMN
 - [ ] 200 mg Grüntee extrakt (8:1) (HSN)
+- [ ] 3,3 mg MPH
+- [ ] 0,5 mg LDX
 - [ ] 1,5 µg ACD
-- [ ] 2 mg MPH
 - [ ] 1 gehäuften TL Kreatin
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem wenn kein Sport gemacht wurde)
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
 - [ ] 12,5 g 90%ige schokolade (Moser Roth)
-- [ ] Kaffee: 2 TL Löslichen Kaffe mild von Lidl
+- [ ] Kaffee: 1 TL Löslichen Kaffe mild von Lidl
 - [ ] 1. Kapsel Brokkoli Extrakt 400µg Sulforaphan (Bioherba)
 - [ ] Granatapfelextrakt 500mg 20:1 (Zazzee Pomegranate, 40% Ellagic Acid)
 
 ### Nachmittags
 - [ ] 2,5g Mg-BHB (Nach Bedarf)
+- [ ] 3,3 mg MPH (Nach Bedarf, im Regelfall spätestens 16:00)
+- [ ] 0,5 mg LDX
 - [ ] 1,5 µg ACD (Nach Bedarf)
-- [ ] 2 mg MPH (Nach Bedarf, im Regelfall spätestens 16:00)
 
 ### Abends (Nach dem Essen)
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem nach grünem Blattgemüse f. Eisenaufnahme)
