@@ -44,7 +44,6 @@
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem wenn kein Sport gemacht wurde)
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
 - [ ] 12,5 g 90%ige schokolade (Moser Roth)
-- [ ] Kaffee: 1 TL Löslichen Kaffe mild von Lidl
 - [ ] 1. Kapsel Brokkoli Extrakt 400µg Sulforaphan (Bioherba)
 - [ ] Granatapfelextrakt 500mg 20:1 (Zazzee Pomegranate, 40% Ellagic Acid)
 
