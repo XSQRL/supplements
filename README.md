@@ -2,7 +2,7 @@
 
 ## Regelmäßig
 - Alle drei Wochen 1000 IE Vitamin B12, intramuskulär.
-- Montags morgens und Donnerstags abends jeweils 250µg Semaglutid
+- Montags morgens und Donnerstags abends jeweils 300µg Semaglutid
 
 ## Nach Bedarf
 - Wenn der Magen weh tut (wahrscheinlich zu viel Getreide gegessen) -> Pantoprazol (Einmalig reicht meistens)
@@ -11,12 +11,11 @@
 ## Täglich
 
 ### Morgens
-- [ ] Kaffee: 1 TL Löslichen Kaffe mild von Lidl
+- [ ] Kaffee: 1 TL Löslichen Kaffe mild von Lidl + 1TL Kakaopulver
 - [ ] 4000 IE Vitamin D (Im Sommer weniger, Wenn in der Sonne gewesen gar nicht.)
-- [ ] 12,5 g 90%ige schokolade (Moser Roth)
-- [ ] 2,5g Mg-BHB
+- [ ] 2,5g Mg-BHB (Bei Bedarf)
 - [ ] 1 gehäuften TL Kreatin
-- [ ] 2,3 mg MPH
+- [ ] 3,3 mg MPH
 - [ ] 0,5 mg LDX
 - [ ] 1,5 µg ACD
 
@@ -37,9 +36,6 @@
 - [ ] 10 mg Spermidin
 - [ ] 630 mg NMN
 - [ ] 200 mg Grüntee extrakt (8:1) (HSN)
-- [ ] 3,3 mg MPH
-- [ ] 0,5 mg LDX
-- [ ] 1,5 µg ACD
 - [ ] 1 gehäuften TL Kreatin
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem wenn kein Sport gemacht wurde)
 - [ ] Curcumin Kapsel (manchmal, wenn verdacht auf erhöhte Entzündungswerte)
@@ -49,12 +45,12 @@
 
 ### Nachmittags
 - [ ] 2,5g Mg-BHB (Nach Bedarf)
-- [ ] 3,3 mg MPH (Nach Bedarf, im Regelfall spätestens 16:00)
-- [ ] 0,5 mg LDX
-- [ ] 1,5 µg ACD (Nach Bedarf)
+- [ ] 3,3 mg MPH (ca. 15-16 Uhr)
+- [ ] 0,5 mg LDX (ca. 15-16 Uhr)
+- [ ] 1,5 µg ACD (ca. 15-16 Uhr)
 
 ### Abends (Nach dem Essen)
 - [ ] 00er Kapsel Vitamin C (manchmal, vorallem nach grünem Blattgemüse f. Eisenaufnahme)
 
 ### Abends, vor dem Schlafen
--
+- [ ] 250mg Baldrian (Kneipp Nervenkraft)
